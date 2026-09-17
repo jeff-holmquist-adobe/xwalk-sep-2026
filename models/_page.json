@@ -21,6 +21,12 @@
           "name": "keywords",
           "multi": true,
           "label": "Keywords"
+        },
+        {
+          "component": "text-area",
+          "valueType": "string",
+          "name": "json-ld",
+          "label": "JSON-LD"
         }
       ]
     }
